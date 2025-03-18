@@ -9,7 +9,7 @@ public class GenericContainer<M> {
 		GenericObj <Integer> m1=new GenericObj<>();
 		m1.add(3);
 		System.out.println(m1.get());
-	
+		System.out.println(m1.get());
 	}
 
 }
