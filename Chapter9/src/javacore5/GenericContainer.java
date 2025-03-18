@@ -10,6 +10,8 @@ public class GenericContainer<M> {
 		m1.add(3);
 		System.out.println(m1.get());
 		System.out.println(m1.get());
+		System.out.println(m1.get());
+
 	}
 
 }
